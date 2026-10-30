@@ -31,8 +31,7 @@ public:
 
 AudioPassthrough *passthrough = NULL;
 
-// MakeCode用ブロック定義（必要に応じて）
-//% 
+//% color="#002050" weight=100 icon="\uf028"
 namespace AudioHacks {
     //% block="マイクの音声をP0ピンに出力する"
     void startPassthrough() {
