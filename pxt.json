@@ -1,0 +1,12 @@
+{
+    "name": "mic-passthrough",
+    "description": "Microbit microphone to P0 passthrough",
+    "dependencies": {
+        "microbit": "*"
+    },
+    "files": [
+        "main.cpp",
+        "pxt.json"
+    ],
+    "public": true
+}
